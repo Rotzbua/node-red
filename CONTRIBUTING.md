@@ -42,7 +42,6 @@ All contributors need to sign the OpenJS Foundation's Contributor License Agreem
 It is an online process and quick to do. If you raise a pull-request without
 having signed the CLA, you will be prompted to do so automatically.
 
-
 ### Code Branches
 
 When raising a PR for a fix or a new feature, it is important to target the right branch.
@@ -60,3 +59,7 @@ code base. Some basic rules include:
  - indent with 4-spaces, no tabs. No arguments.
  - opening brace on same line as `if`/`for`/`function` and so on, closing brace
  on its own line.
+
+### Release plan
+
+The release and support plan can be found here: https://nodered.org/about/releases/
