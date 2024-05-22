@@ -120,7 +120,7 @@
         "should": "13.2.3",
         "sinon": "11.1.2",
         "stoppable": "^1.1.0",
-        "supertest": "6.3.3"
+        "supertest": "7.0.0"
     },
     "engines": {
         "node": ">=18.5"
