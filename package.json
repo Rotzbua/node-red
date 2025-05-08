@@ -118,9 +118,9 @@
         "proxy": "^1.0.2",
         "sass": "1.62.1",
         "should": "13.2.3",
-        "sinon": "11.1.2",
+        "sinon": "18.0.0",
         "stoppable": "^1.1.0",
-        "supertest": "6.3.3"
+        "supertest": "7.0.0"
     },
     "engines": {
         "node": ">=18.5"
